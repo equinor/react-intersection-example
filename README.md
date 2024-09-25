@@ -1,3 +1,9 @@
+# Archived on 25.09.2024
+
+No longer actively maintained, and [esv-intersection](https://github.com/equinor/esv-intersection) component gives better example directly in its repository.
+
+## Readme
+
 This is one example of how to implement intersection in a react app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
